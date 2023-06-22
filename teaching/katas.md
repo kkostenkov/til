@@ -1,5 +1,7 @@
 * Practical Kata assignments  
 
+  * Which Katas to choose?  
+  https://understandlegacycode.com/blog/5-coding-exercises-to-practice-refactoring-legacy-code/  
   * TDD-Katas/KatasReadme.md at main · garora/TDD-Katas  
 https://github.com/garora/TDD-Katas/blob/main/KatasReadme.md
   * Katas to learn TDD  
@@ -14,8 +16,10 @@ http://codekata.com/
 https://codingdojo.org/kata/ 👍
   * Emily Bache's repos with lots of katas  
 https://github.com/emilybache?tab=repositories
-  * Some resources in a list
-https://anthonysciamanna.com/2022/05/05/code-kata-websites.html  
+  * Some resources in a list  
+https://anthonysciamanna.com/2022/05/05/code-kata-websites.html
+  * A whole bunch of stuff. Very lagre.  
+ https://github.com/gamontal/awesome-katas  
 
 * Code smells 
   * Catalog of Refactoring  
@@ -38,3 +42,8 @@ https://anthonysciamanna.com/2019/05/27/the-code-smell-scavenger-hunt-kata.html
   https://ronjeffries.com/xprog/articles/acsbowling/  
   * To introduce Typist and Navigator roles
   https://github.com/kkostenkov/Yatzy-Prompts
+
+* Intriducing unit tests
+  * Add tests to Legacy codebase
+  https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/ 
+  
