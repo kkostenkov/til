@@ -10,7 +10,8 @@ alias vscode='open -a /Applications/Visual\ Studio\ Code.app'
 2. When you are satisfied with the alias - add the command to your .bashrc file
 
 echo "alias vscode='open -a /Applications/Visual\ Studio\ Code.app'" >> ~/.bashrc
+or ~/.zshrc or other file depending on your shell
 
-3. Execute the saved alias by sourcing the file
+3. Execute the saved alias by sourcing the file (if that's not your default config)
 
-source ~/.bashrc
+source ~/.bashrc 
