@@ -184,4 +184,12 @@ Reciprocity for them is "give an inch, take a mile". They are counting seconds u
 - If it's you:  
 Be conscuious of your tone. You either sound harsh or accepted this way. Intentially soften your tone. Use calibrated questions and labels since that will make you more approachable and increase chances of collaboration.
 
+## The Black Swan rule
+Don't treat others the way you want to be treated. Treat them the way they need to be treated. Because all people are different. And even if you divide them by those 3 groups of negotiators  
+https://info.blackswanltd.com/3-types  
+
+## Zone of possible agreement (ZOPA)
+For `|--/+++|` and `|+++/--|` ZOPA is `|--/+/--|`  
+If you're dragged into the haggle you may want to say "Let's put price off to the side at the moment and talk about what would make this a good deal" (non menetary )
+
 ## Opponent is not a problem
