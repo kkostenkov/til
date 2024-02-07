@@ -1,3 +1,5 @@
+# Great Boss, Dead Boss  
+
 ## Tribal attributes
 1. A strong tribe must have a common enemy.
 2. A strong tribe has clearly defined symbols.  
@@ -6,10 +8,11 @@
 >By creating a new super-tribe–one that is completely different from all the existing tribes. It allows people to emotionally and mentally leave their old trusted tribe and join the new, more successful tribe. There are no winners or losers. It gives you the opportunity to script out the undesirable traits, and to define new tribal behaviors commensurate with the operating requirements needed to make the merger successful.
 4. A strong tribe has a credible, Just cause for it's continued existence.
 5. A strong tribe has an accepted rite of passage.
->Therefore, to ensure a lasting impact, the rite of passage in your company must be significant and clearly linked to the just cause.
+>Therefore, to ensure a lasting impact, the rite of passage in your company must be significant and clearly linked to the Just cause.
 6. A strong tribe has clear external measures of success.  
 7. A strong tribe understands and protects its source of power. 
 8. A strong tribe knows how it compares to the "Untouchables".
+> "Untouchables" is some tribe that's far below standards and is considered outcasts.
 9. The criteria for tribal membership are clear and credible.
 10. Tribes communicate in a non-traditional subjective and intuitive manner.
 11. A strong tribe develops its own unique language.
@@ -20,7 +23,7 @@
 > Judicial decisions are widely communicated, thereby ensuring that everyone understands acceptable corporate behavior, norms and values.
 15. A strong tribe has a clearly defined icon that embodies the "Tribal value".
 16. A strong tribe has a walled city - a place of refugee where things of value are kept.
-17. A strong tribe possesses objects of value that embody the trive's value.
+17. A strong tribe possesses objects of value that embody the tribe's value.
 18. A strong tribe has a revered figurehead.
 19. A strong tribe celebrates and cares for the skills, tools and implements required for its prosperity.
 20. A strong tribe expects unquestioning loyalty.
@@ -30,17 +33,16 @@
 
 ## Tribal dimensions
 1. Individuals are socially, emotionally and psycologically defined by their tribal membership.
-1. Individuals act to reinforce their security when under threat. (individuas security)
-1.  Individuals act to reinforce their self-worth when their security is not under threat. (Individual value)
-1. Tribes act to secure their self-preservation when their security is under threat. (Tribal security)
-1. Tribes act to reinforce their self-worth when their security is not under threat. (Tribal value)
-
-Individual value - IV   Individual security - IS Tribal value - TV  
-Tribal security - TS
+1. Individuals act to reinforce their security when under threat. (individual security -> IS)
+1.  Individuals act to reinforce their self-worth when their security is not under threat. (Individual value -> IV)
+1. Tribes act to secure their self-preservation when their security is under threat. (Tribal security -> TS)
+1. Tribes act to reinforce their self-worth when their security is not under threat. (Tribal value -> TV)
 
 The continuous interplay between individual security and value on the one hand, and tribal security and value on the other, determines both tribal and individual motivation.
 
- \+ tribal security  -
+#### Secutity
+
+
 |      | TS +    | TS-     |
 | ---- | ------- | ------- |
 | IS + | IS+ TS+ | IS+ TS- |
@@ -72,7 +74,7 @@ IS- TS-
 - Individuals claim tribe's possessioons
 - Search for new tribe to join
 
-\+ tribal value  -
+#### Value 
 |      | TV +    | TV-     |
 | ---- | ------- | ------- |
 | IV + | IV+ TV+ | IV+ TV- |
@@ -99,29 +101,31 @@ IV- TV+
 - Form new tribe
 
 IS- TV-
-- Finger-pinting
+- Finger-ponting
 - Involve outsiders
 - Loss of focus
 - Promote own view if world
 - In-fighting
 - Look for new symbols of value
 
+
+#### Tibe life cycle
 <pre>
 Succesfull
-
-TV+IV+
+            You want to be here!
+TV+IV+    / 
 \__ TV-IV+
 |   \__ TV-IV-
 |   |   \__ TS+IS+
 |   |   |   \__ TS-IS+
 |   |   |   |   \__ TS-IS-
 |   |   |   |   |   \_ 
-1   2   3   4   5   6   
-               
-Bankrupt
+1   2   3   4   5   6   Bankrupt
 </pre>
 - There may be a highly predictable death spiral, based on our model of motivation.  
 - The same applies the other way around and good results could be achieved when the dynamics is kicked in the other direction.
+
+After defining the current state, note actions to take in order to push state to the desired life stage:
 
 | Quadrant     | Action |
 | ---- | ------- |
@@ -135,8 +139,10 @@ Bankrupt
 | TS+ IS- | Don't look for scapegoats. Reaffirm individual's importance. Establish better working relationships. Negate new sub-tribes. |
 
 ### The tribal dimension has to be TV-TS+  
+- If I have a TV- TS+ company, I will experience the behavior and motivation of the scientific teams at the particle accelerators (CERN example).  There has to be the one unachieved goal, the one tantalizing issue that is still missing from complete TV+.
 - If I have a state of TV+TS+, my company will find itself in the same position as NASA after the moon landing.  
-- If I have a TV- TS+ company, I will experience the behavior and motivation of the scientific teams at the particle accelerators.  There has to be the one unachieved goal, the one tantalizing issue that is still missing from complete TV+.
+- From the individual’s perspective, it has to be IS+IV+. In such a state, people will be less concerned about their personal issues than organizational issues.
+
 
 ## Tribal communication contexts
 (tribe-to-tribe, tribe-to-individual, individual-to-tribe, and individual-to-individual ) * (ally, enemy)
@@ -151,13 +157,13 @@ Through his efforts, the tribe will be more secure, enjoying TS+, or prosper wit
 #### Enemy individual-to-tribe.  
 The individual is at war with the tribe. He may sabotage the company, leak sensitive information, and start sub-tribes of his own to bolster his power. He causes confusion, dissent and poisons the corporate environment. Sometimes they acquire some degree of notoriety as a result of their conflict with the tribe.
 #### Ally individual-to-tribe.  
-The individual actively supports the just cause, joins in the fray against the common enemy, volunteers his time and resources, and cheerfully works overtime if the tribe makes him feel good.
+The individual actively supports the Just cause, joins in the fray against the common enemy, volunteers his time and resources, and cheerfully works overtime if the tribe makes him feel good.
 #### Enemy individual-to-individual.  
 It simply is a case of one person not liking another. In their vendetta they frequently appropriate the resources of the tribe to support their aims. Resources are diverted away from the tribal good to support the interpersonal warfare. This occurs with singular regularity between project leaders for example, where everyone tries to hoard as much of the corporate resources to work on their pet project.
 #### Ally individual to individual 
 or simply good friends and soul-mates.  
 
-To significantly enhance motivation and commitment to the company, you must ensure that the four enemy-related communication contexts are used to help define and describe the common enemy, and that the four ally contexts are used to reinforce the just cause.  
+>To significantly enhance motivation and commitment to the company, you must ensure that the four enemy-related communication contexts are used to help define and describe the common enemy, and that the four ally contexts are used to reinforce the just cause.  
 
 ## Quotes
 
@@ -167,31 +173,35 @@ A strong tribe is characterized by very strong trust relationships between its m
 
 People experience more dependable and enduring trust and emotional refuge in a tribal structure than in an organizational structure.
 
-I can acknowledge the team for their ability to produce on target and within quality standards. That means I need to add some group recognition tools as well.  
-I’ll have to create specific training modules for these. I cannot acknowledge something without some measure of achievement and training.  
-I should include training in co-responsibility.
+I can acknowledge the team for their ability to produce on target and within quality standards. 
+- That means I need to add some group recognition tools as well.  
+- I’ll have to create specific training modules for these. I cannot acknowledge something without some measure of achievement and training.  
+  - I should include training in co-responsibility.
 
 ---
+
 Even with the best intentions, management does not have the resources to deal with the relationship of individuals to the tribe as part of their management task.  
 Through this interlocking triangular co-responsibility structure, individual care is devolved to every person. 
 
-A strong tribe automatically creates a strong people focus without management’s involvement–ask any good sports team.
+A strong tribe automatically creates a strong people focus without management’s involvement – ask any good sports team.
 
-(About deal with people and task requirements simultaneously) ... separating out the tribal dynamic and managing it in isolation, frees up close to 50% of the most valuable asset any company has–management’s time.
----
-“From the individual’s perspective, it has to be IS+IV+. In such a state, people will be less concerned about their personal issues than organizational issues
-
-... the new dress code, skills recognition system and co-responsibility structure will bring that about. A strong tribal identity, clear co-responsibility and recognized skills and capabilities all build a strong sense of individual security and individual value.
+(About dealing with people and task requirements simultaneously) ... separating out the tribal dynamic and managing it in isolation, frees up close to 50% of the most valuable asset any company has – management’s time.  
 
 ---
+Getting to IS+IV+ :
+>... the new dress code, skills recognition system and co-responsibility structure will bring that about. A strong tribal identity, clear co-responsibility and recognized skills and capabilities all build a strong sense of individual security and individual value.
 
-A strong tribe has a just cause, something great, a calling that is greater than its vision and mission. Something so compelling that people sense their IV is strongly enhanced if they ascribe to the cause.
+---
+
+A strong tribe has a Just cause, something great, a calling that is greater than its vision and mission. Something so compelling that people sense their IV is strongly enhanced if they ascribe to the cause.
 
 A successful tribe must have a strong, credible, just cause, as well as a clear common enemy.
 
 ---
 
-Anything that strengthens IS and IV, or supports the just cause, or attacks the common enemy is seen as positive and collaborative. In addition, anything that enhances the individual or tribe’s sense of control over their environment does the same. Anything that does the opposite–weakens IS and IV, TS and TV, demeans the just cause, eulogizes the common enemy, or cause people to feel less in control of their environment is enemy communication.  
+Anything that strengthens IS and IV, or supports the just cause, or attacks the common enemy is seen as **positive and collaborative**.  
+In addition, anything that enhances the individual or tribe’s sense of control over their environment **does the same**.  
+Anything that **does the opposite** – weakens IS and IV, TS and TV, demeans the just cause, eulogizes the common enemy, or cause people to feel less in control of their environment is enemy communication.  
 
 ---
 
@@ -205,7 +215,7 @@ Building a super-tribe requires a fine balancing act to integrate all the warrin
 
 Place the system second to people. Great bosses work to build interfaces between tribes, aligning the system to people until the melding of tribes seems to be the most natural thing. Managers, on the other hand, rely on unemotional data, systems and hierarchy to reach their objectives. They place people second, causing enormous social stress.
 
-Resist external pressure. (как в докладе "нет, у нас будет релиз тогда-то")
+Resist external pressure. (как в [докладе](https://youtube.com/clip/Ugkxez_OT_bHQzVEc00HRuWLlB33QYZ_GsEX?feature=shared): "через неделю у нас выдача")
 
 Don’t let the leader become the figurehead.
 
