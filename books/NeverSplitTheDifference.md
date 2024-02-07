@@ -56,7 +56,7 @@ Pressured by deadlines usualy enforces people to do things that normally is agai
 Drags the cionversation to the emotional side. If your opponents drops that word - ask them how exactly you are mistreating them.
 
 ## Anchor the starting point
-Before you make an offer - mention how bad it would be. When you get to numbersset an extreme offer to make you real offer seem reasonable or use a range to seem less aggressive.
+Before you make an offer - mention how bad it would be. When you get to numbers set an extreme offer to make you real offer seem reasonable or use a range to seem less aggressive.
 
 ## Calibrated queations
 Help educate your couterpart on what the problem is instead of causing conflict by telling them what the problem is.
