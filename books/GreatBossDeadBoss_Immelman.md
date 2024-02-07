@@ -25,7 +25,8 @@
 19. A strong tribe celebrates and cares for the skills, tools and implements required for its prosperity.
 20. A strong tribe expects unquestioning loyalty.
 21. A strong tribe has clearly defined roles, responsibilities, values, authority, power, structure and chain of command.
-22. A strong tribe 
+22. A strong tribe has a leader dedicated to the tribe's success.
+23. Strong leaders have capable mentors whose psychological limits exceed their own.
 
 ## Tribal dimensions
 1. Individuals are socially, emotionally and psycologically defined by their tribal membership.
@@ -193,3 +194,22 @@ A successful tribe must have a strong, credible, just cause, as well as a clear 
 Anything that strengthens IS and IV, or supports the just cause, or attacks the common enemy is seen as positive and collaborative. In addition, anything that enhances the individual or tribe’s sense of control over their environment does the same. Anything that does the opposite–weakens IS and IV, TS and TV, demeans the just cause, eulogizes the common enemy, or cause people to feel less in control of their environment is enemy communication.  
 
 ---
+
+Companies focus on all the internal efficiency issues, striving to be the lowest cost producers, only to perish when the world outside their sight changes.
+
+---
+
+Building a super-tribe requires a fine balancing act to integrate all the warring tribes into a cohesive, directed entity.
+
+---
+
+Place the system second to people. Great bosses work to build interfaces between tribes, aligning the system to people until the melding of tribes seems to be the most natural thing. Managers, on the other hand, rely on unemotional data, systems and hierarchy to reach their objectives. They place people second, causing enormous social stress.
+
+Resist external pressure. (как в докладе "нет, у нас будет релиз тогда-то")
+
+Don’t let the leader become the figurehead.
+
+Lead through events and focus on action. IS, IV, TS and TV change through experiential events, not through intellectual discussion. Celebrate events, not strategies.
+
+Don’t confuse the business objectives with tribal objectives. Business objectives can and do change overnight. Tribal objectives always remain the same. IS+, IV+, TS+ and TV+, in your vernacular.
+
